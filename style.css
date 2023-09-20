@@ -1,0 +1,197 @@
+*{
+    margin: 0%;
+    padding-top: 3px;
+}
+
+
+
+.header{
+    border: solid white 1px;
+    display: flex;
+    background-color:white;
+}
+.head{
+   display: flex;
+   justify-content:space-around;
+   margin-left: 70%;
+}
+.headtwo{
+    border: solid rgb(175, 232, 213);
+    background-color: #000 ;
+    width: 100%;
+    height: 220px;
+    background-image: url("./pexels-kammeran-gonzalezkeola-9638689.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.one,.two{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.sbox
+{
+    border: solid white 1px;
+    display: flex;
+    width: 5%;
+    margin-left: 20px;
+    background-color: white;
+    color: white;
+    display: flex;
+    
+}
+.wbox
+{
+    border: solid white 1px;
+    display: flex;
+    margin-left: 20px;
+    width: 5.5%; 
+    background-color: white;
+    color: white;
+    padding-bottom: 2px;
+    margin-top: 15px;
+}
+.last{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.about{
+    margin-top: 10px;
+    text-align: center;
+}
+.container{
+    border: solid;
+    border-color:white;
+    border-width: 1px;
+    display: flex;
+    justify-content: space-around;
+}
+.boxs{
+     border: solid;
+    border-color: black;
+    border-width: 2px;
+    width: 240px;
+    height: 200px;  
+    text-align: center;
+}
+.pro{
+    text-align: center;
+}
+.image{
+    float: right;
+    margin-right: 30px;
+}
+.alignbox{
+    border: solid rgb(175, 232, 213);
+    background-color:rgb(175, 232, 213) ;
+    margin-top: 50px;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.single{
+    position: relative;
+    bottom: 25px;
+
+}
+.double{
+    position: relative;
+    top: 20px;
+
+}
+.trible{
+     position: relative;
+    bottom: 25px;
+
+}
+.prag{
+    background-color:rgb(175, 232, 213) ;
+    width: 100%;
+    height: 20px;
+    text-align: center;
+}
+.best{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.fimg{
+    border: solid;
+    border-color:white;
+    border-width: 1px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.boxs1,.boxs2,.boxs3,.boxs4{ 
+    text-align: center;
+}
+.girlbox{
+     border: solid rgb(175, 232, 213);
+    background-color:rgb(175, 232, 213) ;
+    margin-top: 100px;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    background-size: cover;
+    
+    
+}
+.gimg{
+    position: relative;
+    bottom: 35px;
+    
+}
+.text{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.whitebox{
+    margin-top: 20px;
+    text-align: center;
+}
+.wbar{
+    margin-top: 10px;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+    height: 30px;
+    width: 80%;
+    margin-left: 13%;
+}
+.subbox{
+    text-align: center;
+     margin-top: 10px;
+    border: solid;
+    border-color: black;
+    background-color: black;
+    color: white;
+    border-width: 1px;
+    height: 30px;
+    width: 8%;
+    margin-left:48%;
+
+
+}
+.lbox{
+    border: solid rgb(175, 232, 213);
+    background-color:rgb(175, 232, 213) ;
+    margin-top: 50px;
+    width: 100%;
+    height: 160px;
+}
+.footer{
+    position: fixed;
+    padding: 5px;
+    background-color: rgb(175, 232, 213) ;
+    bottom: 0px;
+    width: 100%;
+}
+
+.gimg img {
+    width: 10rem;
+    height: 10rem;
+    object-fit: cover;
+    margin-top: 3rem;
+}
